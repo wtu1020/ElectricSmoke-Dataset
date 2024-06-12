@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>D:\target detection\smoke\img</folder>
+		<filename>smoke_a710.jpg</filename>
+		<size>
+			<width>107</width>
+			<height>122</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>smoke</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>56</xmin>
+				<ymin>64</ymin>
+				<xmax>70</xmax>
+				<ymax>111</ymax>
+			</bndbox>
+		</object>
+	</annotation>
